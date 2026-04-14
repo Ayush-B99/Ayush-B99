@@ -131,9 +131,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/COMMITS-121-C2FE0B?style=for-the-badge&logo=github&logoColor=C2FE0B&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/PULL_REQUESTS-42-01FFFF?style=for-the-badge&logo=gitpullrequest&logoColor=01FFFF&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAyush-B99&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&logo=github&logoColor=FF0D1A&labelColor=0A0A0A&color=FF0D1A" />
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-270-C2FE0B?style=for-the-badge&logo=github&logoColor=C2FE0B&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/PULL_REQUESTS-37-01FFFF?style=for-the-badge&logo=gitpullrequest&logoColor=01FFFF&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/REPOSITORIES-9-FF0D1A?style=for-the-badge&logo=github&logoColor=FF0D1A&labelColor=0A0A0A" />
 
 </div>
 
