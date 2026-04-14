@@ -1,5 +1,3 @@
-<!-- AYUSH BEEKUM // RUNNER PROFILE -->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=2200&pause=600&color=C2FE0B&center=true&vCenter=true&width=800&lines=AYUSH+BEEKUM;FULL+STACK+ENGINEER;BACKEND+%2F+SYSTEMS+ARCHITECTURE;THIRD+YEAR+COMPUTER+SCIENCE;DEPLOYING+PRODUCTION+SYSTEMS" />
@@ -147,13 +145,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-B99&hide_border=true&background=0d1117&ring=C2FE0B&fire=FF0D1A&currStreakLabel=01FFFF&sideLabels=8b949e&currStreakNum=C2FE0B&dates=8b949e&sideNums=C2FE0B&count_private=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush-B99&theme=2077" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush-B99&theme=2077&utcOffset=2" />
 </div>
 
 ---
